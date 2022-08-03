@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithubUser2Tio/app/src/main/res/layout/activity_detail.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithubUser2Tio/app/src/main/res/layout/activity_main.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithubUser2Tio/app/src/main/res/layout/fragment_followers.xml" value="0.1" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithubUser2Tio/app/src/main/res/layout/fragment_followings.xml" value="0.1" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithubUser2Tio/app/src/main/res/layout/item_row_user.xml" value="0.1334853090172239" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithuhUser3/GithubUser3Tio/app/src/main/res/drawable/ic_account_circle.xml" value="0.168" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithuhUser3/GithubUser3Tio/app/src/main/res/drawable/ic_company.xml" value="0.1745" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithuhUser3/GithubUser3Tio/app/src/main/res/drawable/ic_favorite_border.xml" value="0.1" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithuhUser3/GithubUser3Tio/app/src/main/res/layout/activity_detail.xml" value="0.18342391304347827" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithuhUser3/GithubUser3Tio/app/src/main/res/layout/activity_favorite.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithuhUser3/GithubUser3Tio/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithuhUser3/GithubUser3Tio/app/src/main/res/layout/fragment_followers.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithuhUser3/GithubUser3Tio/app/src/main/res/layout/fragment_followings.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithuhUser3/GithubUser3Tio/app/src/main/res/layout/item_row_user.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithuhUser3/GithubUser3Tio/app/src/main/res/layout/text.xml" value="0.264" />
+        <entry key="..\:/Users/tiola/Desktop/BelajarFundamentalAplikasiAndroid/GithuhUser3/GithubUser3Tio/app/src/main/res/menu/main_menu.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

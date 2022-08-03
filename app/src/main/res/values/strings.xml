@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GithubUser2Tio</string>
+    <string name="username">username</string>
+    <string name="search">search</string>
+    <string name="github_image">github image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">name</string>
+    <string name="compant">company</string>
+    <string name="location">location</string>
+    <string name="number">number</string>
+    <string name="repositories">repositories</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+    <string name="favorite">Favorite</string>
+    <string name="appbar_favorite">Favorite Github</string>
+    <string name="theme_mode">Theme Mode</string>
+    <string name="alert_title">Theme</string>
+    <string name="alert_message">Light / Dark</string>
+    <string name="alert_positive">Activate</string>
+    <string name="alert_negative">Cancel</string>
+    <string name="toast_add_favorite">Added to Favorite</string>
+    <string name="toast_remove_favorite">Remove from Favorite</string>
+    <string name="company">company</string>
+</resources>
